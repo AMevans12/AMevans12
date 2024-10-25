@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abdul Mohiz</h1>
-<h3 align="center">An Unemployed Gamer :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amevans12&label=Profile%20views&color=0e75b6&style=flat" alt="amevans12" /> </p>
 
